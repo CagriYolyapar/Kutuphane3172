@@ -56,6 +56,7 @@
     <Compile Include="DesignPatterns\GenericRepository\ConcReps\BookTagRepository.cs" />
     <Compile Include="DesignPatterns\GenericRepository\ConcReps\CategoryRepository.cs" />
     <Compile Include="DesignPatterns\GenericRepository\ConcReps\ProfileRepository.cs" />
+    <Compile Include="DesignPatterns\GenericRepository\ConcReps\PublisherRepository.cs" />
     <Compile Include="DesignPatterns\GenericRepository\ConcReps\RoomRepository.cs" />
     <Compile Include="DesignPatterns\GenericRepository\ConcReps\ShelfRepository.cs" />
     <Compile Include="DesignPatterns\GenericRepository\ConcReps\TagRepository.cs" />
