@@ -13,10 +13,14 @@ namespace Kutuphane3172.ENTITIES.Models
         public int? CategoryID { get; set; }
         public int? ShelfID { get; set; }
 
+        public int? PublisherID { get; set; }
+
         //Relational Properties
         public virtual Author Author { get; set; }
         public virtual Category Category { get; set; }
         public virtual List<BookTag> BookTags { get; set; }
         public virtual Shelf Shelf { get; set; }
+
+        public virtual Publisher Publisher { get; set; }
     }
 }

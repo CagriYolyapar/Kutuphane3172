@@ -11,5 +11,7 @@ namespace Kutuphane3172.ENTITIES.Models
         public string PublisherName { get; set; }
 
         //Realtional Properties
+
+        public virtual List<Book> Books { get; set; }
     }
 }
