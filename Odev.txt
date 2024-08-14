@@ -1,0 +1,3 @@
+﻿1 => UI katmanınızda Book ve Author icin ayrı Form'lar olusturarak ilgili class'larda CRUD işlemleri yapınız
+
+2 => Kurdugunuz mimarilerde özellikle JUnction Table'i temsil eden class'lar icin CRUD işlemleri yapmayınız...
