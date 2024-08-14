@@ -13,7 +13,7 @@ namespace Kutuphane3172.ENTITIES.Models
         
         //Test
 
-        //Deneme
+        //Deneme2
 
         //Relational Properties
         public virtual AuthorProfile Profile { get; set; }
