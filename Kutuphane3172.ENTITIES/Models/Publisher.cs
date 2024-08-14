@@ -9,6 +9,7 @@ namespace Kutuphane3172.ENTITIES.Models
     public class Publisher:BaseEntity
     {
         public string PublisherName { get; set; }
+
         //Realtional Properties
     }
 }
